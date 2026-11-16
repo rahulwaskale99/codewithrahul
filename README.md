@@ -13,6 +13,12 @@ I spend most of my time with Java and Spring Boot, building REST APIs and workin
 - **Cloud & delivery:** AWS, Docker, Kubernetes, Jenkins, Terraform
 - **Testing & tools:** JUnit, Mockito, Postman, Git
 
+### A few projects
+
+- [rate-limiter](https://github.com/rahulwaskale99/rate-limiter) — Java rate-limiting algorithms and concurrency.
+- [log-analyzer](https://github.com/rahulwaskale99/log-analyzer) — A CLI tool for finding patterns and error bursts in application logs.
+- [expense-tracker-api](https://github.com/rahulwaskale99/expense-tracker-api) — Spring Boot REST API with filtering and monthly expense summaries.
+
 ### What I'm interested in
 
 Distributed systems, payment workflows, API design, concurrency, database performance, observability, and practical system design.

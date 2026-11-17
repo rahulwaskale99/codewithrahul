@@ -25,9 +25,9 @@ Distributed systems, payment workflows, API design, concurrency, database perfor
 
 I prefer understanding the problem first, keeping the solution straightforward, and using logs and evidence when debugging.
 
-### Currently
+### What I'm building
 
-Working on backend services and continuing to build hands-on projects around Java, Spring Boot, microservices, and cloud-native development.
+Hands-on projects around Java, Spring Boot, microservices, and cloud-native development.
 
 ---
 
